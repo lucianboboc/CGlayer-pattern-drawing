@@ -1,5 +1,5 @@
-work
-====
+CGLayer
+======
 
 CGLayer sample project (drawRect implementation)
  
